@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f41df0b-f9aa-4adc-a447-b4892fee60ce" name="Default Changelist" comment="" />
+    <list default="true" id="8f41df0b-f9aa-4adc-a447-b4892fee60ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Lab-9-develop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Lab-9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/Ad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/AdList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/Identifiable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/ListOfIdentifiables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/UserList$UserExistsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/entity/UserList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/helper/AdListHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/helper/UserListHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/servlet/StartupServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/tag/AddUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/tag/DeleteAd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/tag/GetAds$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/tag/GetAds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/tag/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/classes/tag/UpdateAd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/adListing.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/deleteButton.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/editButton.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/errorMessage.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/layout1Column.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/layout2Columns.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/loginForm.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/newButton.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tags/registerButton.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tlds/ad.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tlds/c.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tlds/fmt.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tlds/fn.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tlds/sql.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/tlds/x.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/cabinet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/doDeleteAd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/doLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/doLogout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/doRegister.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/doUpdateAd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/static/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/static/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/updateAd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Java-Lab-9-1.0-SNAPSHOT/viewAd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/Ad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/AdList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/Identifiable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/ListOfIdentifiables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/UserList$UserExistsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/UserList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/AdListHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/UserListHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/StartupServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tag/AddUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tag/DeleteAd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tag/GetAds$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tag/GetAds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tag/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tag/UpdateAd.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622629154874</updated>
-      <workItem from="1622629155911" duration="1787000" />
+      <workItem from="1622629155911" duration="3054000" />
     </task>
     <servers />
   </component>
